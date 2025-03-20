@@ -1,0 +1,30 @@
+name: refresh map
+
+on:
+  schedule:
+    - cron: "0 1,13 * * *"
+
+jobs:
+  refreshindexjson:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4.2.2
+      - name: setup node
+        uses: actions/setup-node@v4.3.0
+        with:
+          node-version: 20.14.0
+      - name: Install dependencies
+        run: |
+          npm i
+      - name: Run Script
+        run: |
+          node scripts/build-index-json.mjs
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "crongenerated"
+          git push
+          
