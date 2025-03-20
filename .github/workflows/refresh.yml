@@ -1,4 +1,4 @@
-name: refresh map
+name: refresh index.json
 
 on:
   schedule:
