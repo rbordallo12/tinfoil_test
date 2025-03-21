@@ -7437,6 +7437,10 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01006D0017F7A000/base#Mario & Luigi™: Brothership [BASE][01006D0017F7A000][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010003000E146000/base#Mario & Sonic at the Olympic Games Tokyo 2020 [BASE][010003000E146000][v0].nsz",
             "size": 0
         },
@@ -7502,10 +7506,6 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010067300059A000/dlc-1954538483:88a0d455a60a50509177ffd105d4f34da6bedb24a472a744d45cc0af917f1f43#Mario + Rabbids Kingdom Battle [DLC Ultra Challenge Pack][010067300059B003][v65536].nsz",
-            "size": 0
-        },
-        {
-            "url": "https://api.ultranx.ru/download/01006D0017F7A000/base#Mario and Luigi Brothership [BASE][01006D0017F7A000][v0].nsz",
             "size": 0
         },
         {
@@ -16181,5 +16181,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Thu Mar 20 2025 13:27:57 GMT+0000 (Coordinated Universal Time). 4046 Files."
+    "success": "Generated on Fri Mar 21 2025 02:24:17 GMT+0000 (Coordinated Universal Time). 4046 Files."
 }
