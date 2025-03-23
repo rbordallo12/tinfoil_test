@@ -2673,6 +2673,22 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01004BC0166CC000/base#CRISIS CORE –FINAL FANTASY VII– REUNION [BASE][01004BC0166CC000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01004BC0166CC000/update#CRISIS CORE –FINAL FANTASY VII– REUNION [UPDATE][01004BC0166CC000][v262144].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01004BC0166CC000/dlc-2123837035:a0a6bc2b5cb8f58c776cf878c02f84db16a2c3804f62511c08279c2969634213#CRISIS CORE FINAL FANTASY VII REUNION [DLC SOLDIER Materia Set][01004BC0166CD001][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01004BC0166CC000/dlc-2123837035:eda99b6a3fe3b11a640a0ed8deb1901dc4320dacbb5ea5b5fe70167c5f1228a4#CRISIS CORE FINAL FANTASY VII REUNION [Standalone DLC Digital Contents][010014C0197D4000][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010069F01BE32000/base#Crowded Mysteries [BASE][010069F01BE32000][v0].nsz",
             "size": 0
         },
@@ -6353,6 +6369,10 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01004D300C5AE000/base#Kirby™ and the Forgotten Land [BASE][01004D300C5AE000][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/0100F3A00F4CA000/base#Kissed by the Baddest Bidder [BASE][0100F3A00F4CA000][v0].nsz",
             "size": 0
         },
@@ -9809,6 +9829,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100F4300BF2C000/base#New Pokémon Snap™ [BASE][0100F4300BF2C000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F4300BF2C000/update#New Pokémon Snap™ [UPDATE][0100F4300BF2C000][v262144].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/0100E1201803A000/base#New Star GP [BASE][0100E1201803A000][v0].nsz",
             "size": 0
         },
@@ -10758,6 +10786,22 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01005EC0039E4000/update#Poi: Explorer Edition [UPDATE][01005EC0039E4000][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B3F000BE2000/base#Pokkén Tournament™ DX [BASE][0100B3F000BE2000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B3F000BE2000/update#Pokkén Tournament™ DX [UPDATE][0100B3F000BE2000][v458752].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B3F000BE2000/dlc-2123837035:8a31b364a002e6bf228c4acddea2415949046834be435e985ba273ffac78be08#Pokken Tournament DX [DLC Battle Pack Wave 1][0100B3F000BE3001][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B3F000BE2000/dlc-2123837035:19dc1c456155facf93952c1dce2ff152f1f324ddf17472f21c1d3ac2a06ed007#Pokken Tournament DX [DLC Battle Pack Wave 2][0100B3F000BE3002][v65536].nsz",
             "size": 0
         },
         {
@@ -16265,5 +16309,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Sat Mar 22 2025 13:22:11 GMT+0000 (Coordinated Universal Time). 4067 Files."
+    "success": "Generated on Sun Mar 23 2025 02:36:23 GMT+0000 (Coordinated Universal Time). 4078 Files."
 }
