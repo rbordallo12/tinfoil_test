@@ -10529,6 +10529,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100DA400F624000/base#PHOGS! [BASE][0100DA400F624000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100DA400F624000/update#PHOGS! [UPDATE][0100DA400F624000][v131072].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010045B011E1E000/base#Piano [BASE][010045B011E1E000][v0].nsz",
             "size": 0
         },
@@ -16309,5 +16317,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Tue Mar 25 2025 02:25:26 GMT+0000 (Coordinated Universal Time). 4078 Files."
+    "success": "Generated on Tue Mar 25 2025 13:29:49 GMT+0000 (Coordinated Universal Time). 4080 Files."
 }
