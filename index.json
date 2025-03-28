@@ -2925,7 +2925,7 @@
             "size": 0
         },
         {
-            "url": "https://api.ultranx.ru/download/010097F018538000/update#DAVE THE DIVER [UPDATE][010097F018538000][v1245184].nsz",
+            "url": "https://api.ultranx.ru/download/010097F018538000/update#DAVE THE DIVER [UPDATE][010097F018538000][v1835008].nsz",
             "size": 0
         },
         {
@@ -2942,6 +2942,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010097F018538000/dlc-1954538483:dbb3eba5d287e7e22ce71f290637e56cae805f81ba3f20d965cba5fcb8bb4db5#Dave the Diver [DLC Godzilla Content Pack][010097F018539004][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010097F018538000/dlc-1954538483:d60bc44c9c795e4f5db17183e04cb702a031a66fd5102be2d34b1dff421f9bb7#The Art of Dave the Diver [Digital Artbook Standalone DLC][01005EC01E6A4000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010097F018538000/dlc-1954538483:c2b3fa01435ab7f54847f5442942fe4882ced6c2c87b7388802b649986332629#The Art of Dave the Diver [Digital Artbook Standalone DLC][01005EC01E6A4800][v65536].nsz",
             "size": 0
         },
         {
@@ -3242,6 +3250,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01004D901AFDA000/dlc-1954536352:2421c386b22a3a65b4cf6a9d9f6be0f33eac5ff8d74ed4080f4f01f84a656223#Disney Epic Mickey Rebrushed [DLC Rebrushed Costume Pack][0100DA201EBF9001][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F7201BC06000/base#Disney Villains Cursed Café [BASE][0100F7201BC06000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F7201BC06000/update#Disney Villains Cursed Café [UPDATE][0100F7201BC06000][v65536].nsz",
             "size": 0
         },
         {
@@ -5033,6 +5049,22 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100B5301A180000/base#Gal Guardians: Demon Purge [BASE][0100B5301A180000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B5301A180000/update#Gal Guardians: Demon Purge [UPDATE][0100B5301A180000][v262144].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100CBD021C70000/base#Gal Guardians: Servants of the Dark [BASE][0100CBD021C70000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100CBD021C70000/update#Gal Guardians: Servants of the Dark [UPDATE][0100CBD021C70000][v196608].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010048600B14E000/base#Gal Metal [BASE][010048600B14E000][v0].nsz",
             "size": 0
         },
@@ -5958,6 +5990,10 @@
         },
         {
             "url": "https://api.ultranx.ru/download/0100849000BDA000/update#I Am Setsuna [UPDATE][0100849000BDA000][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01003C9020CD2000/base#I Have No Mouth, and I Must Scream [BASE][01003C9020CD2000][v0].nsz",
             "size": 0
         },
         {
@@ -10517,6 +10553,22 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100801011C3E000/base#Persona® 5 Strikers [BASE][0100801011C3E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100801011C3E000/dlc-2123837035:5e36d9de053ed11007d536bc7a5062732d705cb2aa60cb5e111b0444753a56d2#Persona 5 Strikers [Bonus Content Standalone DLC][01002F101340C000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100801011C3E000/dlc-2123837035:31b3e8001ffed4725416b71e7cf679924f8f0e83748efd64a178fe5adeb88f2e#Persona 5 Strikers [DLC All-Out Attack Pack][0100801011C3F002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100801011C3E000/dlc-2123837035:c0b373c07f56c021df5732caf10bfbdfdd7b9df8e3ee0c9ce20e61e432a4f11d#Persona 5 Strikers [DLC Legacy BGM][0100801011C3F001][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010045A01221E000/base#Pew Paw [BASE][010045A01221E000][v0].nsz",
             "size": 0
         },
@@ -11561,6 +11613,30 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/base#Rift of the NecroDancer [BASE][0100BDA01AABC000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/update#Rift of the NecroDancer [UPDATE][0100BDA01AABC000][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/dlc-2123837035:d8550fd81546c8cb6eacaf393793482201b95ba329214adc09a766c23c11c8bb#Rift of the NecroDancer [DLC Celeste Confronting Myself][0100BDA01AABD003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/dlc-2123837035:6687494e4608eb23186243d7aa81bea26040c802ce167c9c145e75136074140e#Rift of the NecroDancer [DLC Celeste Reach for The Summit][0100BDA01AABD002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/dlc-2123837035:bfe1a015c357150dc0ec7600f0f4b58b2f5854640431fba37462b0465ace5935#Rift of the NecroDancer [DLC Celeste Resurrections][0100BDA01AABD004][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BDA01AABC000/dlc-2123837035:acf3dd9527bd8e26a6e30b582ea3284c37a3c0e39994f4717f6445b648aef028#Rift of the NecroDancer [DLC Celeste Scattered and Lost][0100BDA01AABD001][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/01002A6006AA4000/base#Riptide GP: Renegade [BASE][01002A6006AA4000][v0].nsz",
             "size": 0
         },
@@ -11730,6 +11806,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01004A001E32E000/base#S.T.A.L.K.E.R.: Shadow of Chornobyl [BASE][01004A001E32E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F2301BD98000/base#SaGa Frontier 2 Remastered [BASE][0100F2301BD98000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F2301BD98000/update#SaGa Frontier 2 Remastered [UPDATE][0100F2301BD98000][v65536].nsz",
             "size": 0
         },
         {
@@ -14701,6 +14785,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01007A700A87C000/base#The Long Dark [BASE][01007A700A87C000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01007A700A87C000/update#The Long Dark [UPDATE][01007A700A87C000][v720896].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010015601B0C2000/base#The Lost and The Wicked [BASE][010015601B0C2000][v0].nsz",
             "size": 0
         },
@@ -15294,6 +15386,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010051601DC3C000/update#TV Studio Story [UPDATE][010051601DC3C000][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7C021496000/base#Twilight Monk [BASE][0100D7C021496000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7C021496000/update#Twilight Monk [UPDATE][0100D7C021496000][v131072].nsz",
             "size": 0
         },
         {
@@ -16317,5 +16417,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Thu Mar 27 2025 13:29:33 GMT+0000 (Coordinated Universal Time). 4080 Files."
+    "success": "Generated on Fri Mar 28 2025 02:26:10 GMT+0000 (Coordinated Universal Time). 4105 Files."
 }
