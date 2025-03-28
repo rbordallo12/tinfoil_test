@@ -14793,6 +14793,10 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01007A700A87C000/dlc-2123837035:f53760280d91f75761175988505d9aafaea88b35a07ee014530e4e4ff7ad8bed#The Long Dark [DLC Tales from the Far Territory][01007A700A87D001][v65536].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010015601B0C2000/base#The Lost and The Wicked [BASE][010015601B0C2000][v0].nsz",
             "size": 0
         },
@@ -16417,5 +16421,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Fri Mar 28 2025 02:26:10 GMT+0000 (Coordinated Universal Time). 4105 Files."
+    "success": "Generated on Fri Mar 28 2025 13:28:07 GMT+0000 (Coordinated Universal Time). 4106 Files."
 }
