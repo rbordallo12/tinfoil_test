@@ -2689,6 +2689,10 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100FB2021B0E000/base#Croc Legend of the Gobbos [BASE][0100FB2021B0E000][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010069F01BE32000/base#Crowded Mysteries [BASE][010069F01BE32000][v0].nsz",
             "size": 0
         },
@@ -4589,6 +4593,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100035013A26000/base#Finding Paradise [BASE][0100035013A26000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100035013A26000/update#Finding Paradise [UPDATE][0100035013A26800][v131072].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/0100F15003E64000/base#Fire Emblem Warriors [BASE][0100F15003E64000][v0].nsz",
             "size": 0
         },
@@ -5609,6 +5621,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100B4101459A000/base#Hatsune Miku Logic Paint S [BASE][0100B4101459A000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100B4101459A000/update#Hatsune Miku Logic Paint S [UPDATE][0100B4101459A800][v262144].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010097B01A0DE000/base#Haunted Zombie Slaughter [BASE][010097B01A0DE000][v0].nsz",
             "size": 0
         },
@@ -6358,6 +6378,10 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01008D400A584000/update#Keep Talking and Nobody Explodes [UPDATE][01008D400A584800][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01004B100BDA2000/base#KEMONO FRIENDS PICROSS [BASE][01004B100BDA2000][v0].nsz",
             "size": 0
         },
         {
@@ -7406,6 +7430,26 @@
         },
         {
             "url": "https://api.ultranx.ru/download/0100BA000FC9C000/base#LocO-SportS [BASE][0100BA000FC9C000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100ADE018E72000/base#Logic Pic [BASE][0100ADE018E72000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100ADE018E72000/update#Logic Pic [UPDATE][0100ADE018E72800][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100ADE018E72000/dlc-2123837035:66837ec6b6602c6cf08b060989b4f3f16feff1319d31cea516ab5a34c74c8ef5#Logic Pic [DLC Happy Pics] [0100ADE018E73002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100ADE018E72000/dlc-2123837035:bfe7c4cd9038fa3167071f1bc583d20027993db2f730e75aad786187e84f3f80#Logic Pic [DLC Love to Solve by Numbers] [0100ADE018E73003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100ADE018E72000/dlc-2123837035:936d6ec7e10e587eaaf13f31f9c24d0b3baad5977d5265790def3d0ca1721089#Logic Pic [DLC Nonogram Adventure] [0100ADE018E73001][v0].nsz",
             "size": 0
         },
         {
@@ -9453,6 +9497,34 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100C4C00E73E000/base#Moving Out [BASE][0100C4C00E73E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C4C00E73E000/update#Moving Out [UPDATE][0100C4C00E73E800][v393216].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C4C00E73E000/dlc-2123837035:08f82c635482849cb6f62459ed1ac1787afd2f4af6fef02586ba4cab675ccbb0#Moving Out [DLC Movers in Paradise] [0100C4C00E73F002][v0] (0.16 GB).nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C4C00E73E000/dlc-2123837035:4d35c9c673bdf8c3cedfc198ad8ad287ac814830c80142c78a9b12249bbc6470#Moving Out [DLC The Employees of the Month Pack] [0100C4C00E73F001][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065D018172000/base#Moving Out 2 [BASE][010065D018172000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065D018172000/update#Moving Out 2 [UPDATE][010065D018172800][v327680].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065D018172000/dlc-2123837035:bc7c9ebaf1b85b59296e9052e9f582b53f31a85e5f7c973b4f7b9060deec0309#Moving Out 2 [DLC FARTastic Four Pack] [010065D018173001][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/01009D200952E000/base#MudRunner - American Wilds [BASE][01009D200952E000][v0].nsz",
             "size": 0
         },
@@ -10601,6 +10673,458 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/base#Pic-a-Pix Deluxe [BASE][01005F900416E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/update#Pic-a-Pix Deluxe [UPDATE][01005F900416E800][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:11a24bdce0063d62378a3a9e9f3f879b029ce033c34a84b3eafb131d8ce0547b#Pic-a-Pix Deluxe [DLC-01] [01005F900416F1F4][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:05db1597752eb2e749078279349d1a9ee001010153a2d99489200bc8d162963d#Pic-a-Pix Deluxe [DLC-02] [01005F900416F1F5][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:4d0ed0291e6f7168be49e5f47de93ebcc2fa93e945a772df579de890d1721686#Pic-a-Pix Deluxe [DLC-03] [01005F900416F1F6][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:15e3087421b496f2a4476e2755771b66cfb878a06d0dba36649e29179c56d833#Pic-a-Pix Deluxe [DLC-04] [01005F900416F1F7][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:9b6f1c69f2fcd78e79742ce0d36a8d8c6c594555a0085f438112cc37ec8c29ca#Pic-a-Pix Deluxe [DLC-05] [01005F900416F1F8][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:a78dc6934d08f3f2cc3abec319f5b0a3117d694119a9857760389a60d719217e#Pic-a-Pix Deluxe [DLC-06] [01005F900416F1F9][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:62903dab189294bd2d501aaab162090d1210e2739486ba18007691cbbcee3b2a#Pic-a-Pix Deluxe [DLC-07] [01005F900416F1FA][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:48c681bcd1dc62549edaf554eb3ed59a1589d92b520f0f536a773cdc5ca3aea2#Pic-a-Pix Deluxe [DLC-08] [01005F900416F1FB][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:9f076c13fb07a934bd082a8c43554a6ddbf8ce27ea0a44484f3f6b62aa95cb7d#Pic-a-Pix Deluxe [DLC-09] [01005F900416F1FC][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:a9cd576b0d10b632ce53b0835c1d98afa2efb690ed3272e9a000b78f7389a2dc#Pic-a-Pix Deluxe [DLC-10] [01005F900416F1FD][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:0b4ca0dbed687ca1d250bb35ef076f71b96b22fed91e1ce76a84ed53cbfb33e2#Pic-a-Pix Deluxe [DLC-11] [01005F900416F1FE][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:98247e3759b51eaffac6561a49001e5b38382fc1521b8e10fbf814ad0e454106#Pic-a-Pix Deluxe [DLC-12] [01005F900416F1FF][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:740ba99b0d0d5670bbb6d0062602b6b2f8362edc3011a87a95fbddf8e7600a21#Pic-a-Pix Deluxe [DLC-13] [01005F900416F12C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:fd2fc6566ccd6b18d730e04a7130dd1975d378230e0e4aae348fe611e798268b#Pic-a-Pix Deluxe [DLC-14] [01005F900416F12D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:fbd9c7e766157aa1578911be327379b0217d049569ef97da6b9693892300b74e#Pic-a-Pix Deluxe [DLC-15] [01005F900416F12E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:015b2e7efe6b44d8e786cd99fcf575cd102341653dd468680418e0422614131f#Pic-a-Pix Deluxe [DLC-16] [01005F900416F12F][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:8a24fe88f15b1677ea124ed5b09dfc018e6a04c295fcabaf03f568f45c2bde45#Pic-a-Pix Deluxe [DLC-17] [01005F900416F25A][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:483360dc3055d8dc44baba4ababf8c05fd856b339f5806007525520febc37993#Pic-a-Pix Deluxe [DLC-18] [01005F900416F25B][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:5c387846d185996fc1c87e4d8aff4b08bddf5e8b94f4a311abeb84a718162eaa#Pic-a-Pix Deluxe [DLC-19] [01005F900416F25C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:a4f828daadc670ddd5a59771ee21957aece8ea952ab43d0425a17aa6e88ebef1#Pic-a-Pix Deluxe [DLC-20] [01005F900416F25D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:fb87620c3303dccf85c8441c0de9b3778f284834923c7889e68289e3565b0349#Pic-a-Pix Deluxe [DLC-21] [01005F900416F25E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:8a09f8a80d75911bb5762e40d808964713a61bc46026fc2c5313876a00e3eff2#Pic-a-Pix Deluxe [DLC-22] [01005F900416F25F][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:0fb121c9c5fc656922ce04146e14972a218c71170496aa3f918d6e4ac7f9128a#Pic-a-Pix Deluxe [DLC-23] [01005F900416F26A][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:50ce158ffb53f05833437d94658c7f5ba8b2483e9fffb7071ac41a123bae2e91#Pic-a-Pix Deluxe [DLC-24] [01005F900416F26B][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:30448a3c28d6e51029f1d897959c3b3e5afdd72b44b7dbcee65879f7a9d74db6#Pic-a-Pix Deluxe [DLC-25] [01005F900416F26C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:70dbebd617f5959f2385b8d164939ea2f61502a8336112be13d205b513f90197#Pic-a-Pix Deluxe [DLC-26] [01005F900416F26D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:fe5d8abc5a07909320c4234b2614c1ce4a07c6591a4219b3081039cb8f8b19ea#Pic-a-Pix Deluxe [DLC-27] [01005F900416F26E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:9196dea42b611c5d9a967fe3dc9c9c98b52f3c14c01dcea2fda38e1c98e692d5#Pic-a-Pix Deluxe [DLC-28] [01005F900416F26F][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:5b1bae1df36e6d14297aa326c6cfa295070a1a0f0e7b772d51153c10e1a046e2#Pic-a-Pix Deluxe [DLC-29] [01005F900416F064][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:8d2e700a9ee8276f35884b9cc2ff6ed6064b6565a47334c8a3de43c80f12b626#Pic-a-Pix Deluxe [DLC-30] [01005F900416F130][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:e4f56f44cfbfcee0fe4096b1cc5edbde8c24ed3e279ce66effeb2724bb9384e7#Pic-a-Pix Deluxe [DLC-31] [01005F900416F131][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:da02836ed4bf9e7cddd68bf9eb3137a0644b322de19a2c9d7be9d9c324e52666#Pic-a-Pix Deluxe [DLC-32] [01005F900416F132][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:7984cb36cde72452ad3ac67a3f6bb69d3babc2360e4b09805e00aa00cee8aacb#Pic-a-Pix Deluxe [DLC-33] [01005F900416F133][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:2b1fbdec0d8702dc1fbbf0d17f87a8730ac5e8a2df44231450d6f265764f8160#Pic-a-Pix Deluxe [DLC-34] [01005F900416F134][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:b08f9b823754c2ce22a91d37c6d82bc788f8b9a27dfb0fc6f05f0e123ecdc2d4#Pic-a-Pix Deluxe [DLC-35] [01005F900416F135][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:2b7951a5dfd75b0b5d90d16dc85cb4cc4e3967c651a9cddda1caf93a429da1bf#Pic-a-Pix Deluxe [DLC-36] [01005F900416F190][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:1e02ae22b6b60a21c8441631fb744e6127fed4e7ea4dd6a94d3dd5385f463b4e#Pic-a-Pix Deluxe [DLC-37] [01005F900416F191][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:0da24144a89039041850ddbb96900161c7ef70fc02a2352704cffabd8e9051f3#Pic-a-Pix Deluxe [DLC-38] [01005F900416F192][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:356e5017e80f60680db02596a395ed89f930514ee245fc37305e84862223ab3e#Pic-a-Pix Deluxe [DLC-39] [01005F900416F193][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:5048ff96841b956cf39691f5c8301a3efc075c21f3179af9695839f28d5c9e2a#Pic-a-Pix Deluxe [DLC-40] [01005F900416F194][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:169ea7265945893c30c9d094aea7cd6a07e72909bbd7af18c7ad750c2df8f8f7#Pic-a-Pix Deluxe [DLC-41] [01005F900416F195][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:ebc4226078af12f4ecf4b465f9dde52947b53ef5360ef8b79a221fb6afbc4604#Pic-a-Pix Deluxe [DLC-42] [01005F900416F196][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:6a0a58aad3e7c151826fd7d96393a91b398d888606f09f11a20fde9f55e376e1#Pic-a-Pix Deluxe [DLC-43] [01005F900416F197][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:15b6fd4e0a9665c7d4f17108c8db53eae04094c8f4a3e89781153d7dace0d3e1#Pic-a-Pix Deluxe [DLC-44] [01005F900416F198][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:ca577248f9e1e12966b8d702c673b94c88025ae72f6bc432af7999cb384af2e4#Pic-a-Pix Deluxe [DLC-45] [01005F900416F199][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:03851e4537e6a49c8ca9fbb84f4e79fe378ac2f4d06c2d8ccf6224355df39514#Pic-a-Pix Deluxe [DLC-46] [01005F900416F200][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:394d9769ec7e5ecd81f3b733780a6befb5ffba088ebc1b99f5f29527f70f0e26#Pic-a-Pix Deluxe [DLC-47] [01005F900416F201][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:e284e0ade96feb27ed5b31bb572fdcc61d34dda7e9091cd09aef737e3412bb4f#Pic-a-Pix Deluxe [DLC-48] [01005F900416F202][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:61b65960b9f1036be9e65346510f73a3160c3afb104f257164e96e3f0e674505#Pic-a-Pix Deluxe [DLC-49] [01005F900416F203][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:d0471d9a6a9e055bbd24e5ba4f1b2a2314ccba165e722e30c389577f2c0352c0#Pic-a-Pix Deluxe [DLC-50] [01005F900416F204][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:bbe68a096dbd0f09ddcecc4afe6ea3190c372d6e249900d4f645303fbe905b4c#Pic-a-Pix Deluxe [DLC-51] [01005F900416F205][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:29c07a2cdf5a41da60f1a20b1904c7f410122ce29f9f67473df001df29569caa#Pic-a-Pix Deluxe [DLC-52] [01005F900416F258][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:0701aad0fb0c04587a4b0125e16613af1c843533939ff0710a39187f47035780#Pic-a-Pix Deluxe [DLC-53] [01005F900416F259][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:a286f346f0015fdb1b6eb53d4f4fa70de81eae185c5380bdeaf5dc65866601ee#Pic-a-Pix Deluxe [DLC-54] [01005F900416F260][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:5ff605d9169ab6f89a65e6c05aed6f63aa166df12ac352afbb5077690f49e93e#Pic-a-Pix Deluxe [DLC-55] [01005F900416F261][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:eaf63aaa659e9780a7dcbcee08a8f4634dc29dc97c5eb5e7f702edd946c02f6a#Pic-a-Pix Deluxe [DLC-56] [01005F900416F262][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:8c59b3478cc4a8e36a9f664b9030dad0ff1242ec2c217b89aed5828c45687697#Pic-a-Pix Deluxe [DLC-57] [01005F900416F263][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:24b58f96b226a79f549348420d24c766bd6d37a8f0340e032c30b8d13e12784b#Pic-a-Pix Deluxe [DLC-58] [01005F900416F264][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:f4205b9f7c03c75a4007def63c5401fd94e2bf81957a4a4c96d569001a31d706#Pic-a-Pix Deluxe [DLC-59] [01005F900416F265][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:90d8a324035869444fb68c1f03ee8981dd396a5037d8992fff145f3b33e1c6af#Pic-a-Pix Deluxe [DLC-60] [01005F900416F266][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:fd1380a68f7b19f606aed49bf4ca931512ccfd872ed97b83bf1b388710f4bfbf#Pic-a-Pix Deluxe [DLC-61] [01005F900416F267][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:34fbc28c48d6162330933b5c90adaf211c09894a98ac4b8eafc05f3066d200fa#Pic-a-Pix Deluxe [DLC-62] [01005F900416F268][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:2d2781fad1a8fcc29ff0d211dec9f3c0f269ed22d509ce2d546c25cc5ca4a737#Pic-a-Pix Deluxe [DLC-63] [01005F900416F269][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:ac7e2002354c4e8255fa8f422010d5a3731b9c77f99cedc96fade69a4e96bf8a#Pic-a-Pix Deluxe [DLC-64] [01005F900416F0C8][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:72d0ba5340627ca361b77519cc0e6ad764605f6e77887226937a056c4b1a2331#Pic-a-Pix Deluxe [DLC-65] [01005F900416F0C9][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:a39cb6bd591f399d3a5dabaae3f476e26fb267c5e8ae58190ea6a022d1ea5a97#Pic-a-Pix Deluxe [DLC-66] [01005F900416F0CA][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:5f62aefae696243bfa8a9361330edaa9f08ed0bab6c6f20d75bcc1666b9c31f4#Pic-a-Pix Deluxe [DLC-67] [01005F900416F0CB][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:982ab3dd1a2df03b047761a36b05ccfb38815a51274652c18e99588e081c5402#Pic-a-Pix Deluxe [DLC-68] [01005F900416F0CC][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:6f260096a8408cb51b97a7897d9f5597468cf53c80d7050b86954cf49f1ea00b#Pic-a-Pix Deluxe [DLC-69] [01005F900416F0CD][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:c7dbf05d27199b434171a9e15da2fdcc7767a949a6059feaebafba52e1b47435#Pic-a-Pix Deluxe [DLC-70] [01005F900416F0CE][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:d6ebdd01cf6d20f37db6ae1e1280537a86f95673aa0c1c18b27d70fa8b3c54b3#Pic-a-Pix Deluxe [DLC-71] [01005F900416F0CF][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:9cc3121f9c412bf8176326ea50868e03c728eadeec60674a41d9d4ee11b56c36#Pic-a-Pix Deluxe [DLC-72] [01005F900416F0D0][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01005F900416E000/dlc-2123837035:6fcd1ed496f8ec3d085486dabdc15de8b6e9e5b74d7a4dcdc69773a3984968d6#Pic-a-Pix Deluxe [DLC-73] [01005F900416F0D1][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/base#Pic-a-Pix Pieces [BASE][010065500C980000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/update#Pic-a-Pix Pieces [UPDATE][010065500C980800][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:a2e8b1df1794f871aa20a3c08f0d4db2e163c5aa17b6534416661a914920c2e8#Pic-a-Pix Pieces [DLC-01] [010065500C98100A][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:59ae3924a19b89eee001101d10bb032cb17ce7b98cdf6c17499c5a28ac1735ce#Pic-a-Pix Pieces [DLC-02] [010065500C98100B][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:40c7123bfcbebbf527976e669bb161525c0eaefc158fe7254ff11226cdb5b4bf#Pic-a-Pix Pieces [DLC-03] [010065500C98100C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:4b9c894cbef0e699b9698b4ed077115b3df0b05d3aade7c9d2ae5e85ec7ec784#Pic-a-Pix Pieces [DLC-04] [010065500C98100D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:422151f36fd04acf6cd8b77ceb7fba118fe6729ae3de5536a36cb15e57dfd820#Pic-a-Pix Pieces [DLC-05] [010065500C98100E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:3ed66d96bbf54e1055a058c69e345f924902a7de5201efb83644ad14e529edde#Pic-a-Pix Pieces [DLC-06] [010065500C98100F][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:b9e3d4fee3433287108b848d51792b7c77b311950e5df32e367458d45fd5210a#Pic-a-Pix Pieces [DLC-07] [010065500C981010][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:6eebf173023c68b89be96902d6014dc9155cac97f7a3a02dc1f1532026b90571#Pic-a-Pix Pieces [DLC-08] [010065500C981011][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:b2b67afc5457b57a1ee9a6638db1c6873f28ab5353faa756812a2fc3ae4c3920#Pic-a-Pix Pieces [DLC-09] [010065500C981012][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:7046fd6cb858f23df8bef2b88330e576a008669e4a5eb58077cfc1a7b6e4ced0#Pic-a-Pix Pieces [DLC-10] [010065500C981013][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:6b5e0204602d3e2ddb881b232f760349501d7f32714a8396372aeef0e28439c7#Pic-a-Pix Pieces [DLC-11] [010065500C981014][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:07609c79e6238e5b549029940e236f9bab61d11f8becb831341fbe0e34d1c092#Pic-a-Pix Pieces [DLC-12] [010065500C981015][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:2c0db242c0236bf00e6d5f4381304868fc1fd71778c9e6c8aad9098eecde6dee#Pic-a-Pix Pieces [DLC-13] [010065500C981016][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:6d363080c7f5952e18ca521e739c7bd2648a54c465eba41cb55e83fbd8817f28#Pic-a-Pix Pieces [DLC-14] [010065500C981017][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:131abebc39f90b43dcae1ff86435206b857ca147623ec460b794750d2776b02b#Pic-a-Pix Pieces [DLC-15] [010065500C981018][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:eb370be650a04c155a48163fed38081bec5618f8e4291bccbeea301d31c490eb#Pic-a-Pix Pieces [DLC-16] [010065500C981019][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:aa625b78d992c2f38a99442c472c24e03989b32847b60ec16243fd022c3b8f7f#Pic-a-Pix Pieces [DLC-17] [010065500C98101A][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:4ca11a943d62da28eb597385feef6cda0fd31bf81ba54339e39310693f3718f9#Pic-a-Pix Pieces [DLC-18] [010065500C98101B][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:a51a8edf53e6efcff92df779586f12824baa453f800130f7d081360eae4718ea#Pic-a-Pix Pieces [DLC-19] [010065500C98101C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:5ae5d2f2190b06928ec29b409f313998d790128a28efee3de89e80c82331b997#Pic-a-Pix Pieces [DLC-20] [010065500C98101D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:4535ddb7ff734701f343dc91b36e74b147c937e5559b3f7185551273773b05e2#Pic-a-Pix Pieces [DLC-21] [010065500C98101E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:c52fdab39670f0d09ba98c3fa870b581a9ae7a16fed66a350cc21dd3f24a3746#Pic-a-Pix Pieces [DLC-22] [010065500C98101F][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:35feae5c22f289f72ec9eca9770c69c537b0ce958af454ab362aba3aea1b8a36#Pic-a-Pix Pieces [DLC-23] [010065500C981020][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:f22f80d66507ab59e9b5427e12befb37eb06094eadfbe535ecd834990a253b60#Pic-a-Pix Pieces [DLC-24] [010065500C981021][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:994574e70a176de015157ead44463527644f9e1189f49c53a9a8cd50ee301c7a#Pic-a-Pix Pieces [DLC-25] [010065500C981022][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:084edac97cea5f134f686efccf23c1b81b0c4767c6a446fa09669e63de43347c#Pic-a-Pix Pieces [DLC-26] [010065500C981023][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:bff12657a9b3f4ee2e621a52f2bc79944f4db39a9a4cc9b6a4b5ec79877f443f#Pic-a-Pix Pieces [DLC-27] [010065500C981024][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:70cd43755484b8df5844d6f4d69ebc60221e1acf2a9861e92a9349389563fe1b#Pic-a-Pix Pieces [DLC-28] [010065500C981025][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:07071242f704681802b5fcce38cb20fd5979f2b298434e50ac877482a4dbd02c#Pic-a-Pix Pieces [DLC-29] [010065500C981028][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:fd755b32f09a32cf4c6ea8ddda26a235e2f55fd3ce85fc64c1caa464f49bd521#Pic-a-Pix Pieces [DLC-30] [010065500C981029][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:820197999baf477904cfc3ad990f9e3dbc2353fb410acbbe618ad9a59a32c273#Pic-a-Pix Pieces [DLC-31] [010065500C98102A][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:f306cf7cb9388bd00866808d9118fcedda7946ad69cf58a090e03cc179da0d2a#Pic-a-Pix Pieces [DLC-32] [010065500C98102B][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:cfb23edf31906692746d59fb92071f1ff5e8493ea04ba140bcb6c4684958b84b#Pic-a-Pix Pieces [DLC-33] [010065500C98102C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:ae8b597008707528e57a2bed7e45b092f35fe8f5dfeafc6c469170f0e5fc8ffd#Pic-a-Pix Pieces [DLC-34] [010065500C98102D][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:223069a13a15708f9c4b249de1fe4645b3453173da4fab00e45e2e60979d0279#Pic-a-Pix Pieces [DLC-35] [010065500C98102E][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010065500C980000/dlc-2123837035:5569e39dbe87376320befe47a33f864f26a488ebbd97476a82965f0945cd29e8#Pic-a-Pix Pieces [DLC-36] [010065500C98102F][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010059C012966000/base#Picklock [BASE][010059C012966000][v0].nsz",
             "size": 0
         },
@@ -10618,6 +11142,178 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010035101E1CC000/update#PICO PARK 2 [UPDATE][010035101E1CC800][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010061501E5C4000/base#Picross -LogiartGrimoire- [BASE][010061501E5C4000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010012100E8DC000/base#PICROSS LORD OF THE NAZARICK [BASE][010012100E8DC000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BA0003EEA000/base#PICROSS S [BASE][0100BA0003EEA000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100BA0003EEA000/update#PICROSS S [UPDATE][0100BA0003EEA800][v524288].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010089701567A000/base#PICROSS S GENESIS & Master System edition [BASE][010089701567A000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010089701567A000/update#PICROSS S GENESIS & Master System edition [UPDATE][010089701567A800][v196608].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010015101DEF8000/base#PICROSS S NAMCO LEGENDARY edition [BASE][010015101DEF8000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010015101DEF8000/update#PICROSS S NAMCO LEGENDARY edition [UPDATE][010015101DEF8800][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/base#PICROSS S+ [BASE][0100D7B01AE58000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:022a17c0e24af66e0eddcbe900a9da62341798eb87b6f79ce3e6764182b9dd35#Picross S Plus [DLC E2] [0100D7B01AE59001][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:efc2538d51e31ffa097e8782d50376a2a7f6643ebed1550200f59e19c101c873#Picross S Plus [DLC E3] [0100D7B01AE59002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:962d199d8c35f5555c33e9c28f3123f6dd485d990ed0b0cad4be7f43aa97c13e#Picross S Plus [DLC E4] [0100D7B01AE59003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:15c03467397a8288444be89bbbe9db5800a229b05eb1930e3879afd54ea4f464#Picross S Plus [DLC E5] [0100D7B01AE59004][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:cc22adb43ac158a86ce65743d62013cdc37fabe113c5167ba0a28b355ad4d475#Picross S Plus [DLC E6] [0100D7B01AE59005][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:feca9b4b9ad8639d5c9f3ea56219e5152156c30622c20301d484b3a8d555d364#Picross S Plus [DLC E7] [0100D7B01AE59006][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:12c37ad9d5209f0b07d3dfe7430cc40c0035ed68eb050ce3f6fde6d5b8bb195f#Picross S Plus [DLC E8] [0100D7B01AE59007][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100D7B01AE58000/dlc-2123837035:4808d1e917bfbdd1e2ae9b8a6dc432918383565f6ce332b6a24438cd7e1f69d7#Picross S Plus [DLC E9] [0100D7B01AE59008][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C9600A88E000/base#PICROSS S2 [BASE][0100C9600A88E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C9600A88E000/update#PICROSS S2 [UPDATE][0100C9600A88E800][v458752].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010079200D330000/base#PICROSS S3 [BASE][010079200D330000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010079200D330000/update#PICROSS S3 [UPDATE][010079200D330800][v589824].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C250115DC000/base#PICROSS S4 [BASE][0100C250115DC000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C250115DC000/update#PICROSS S4 [UPDATE][0100C250115DC800][v589824].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100AC30133EC000/base#PICROSS S5 [BASE][0100AC30133EC000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100AC30133EC000/update#PICROSS S5 [UPDATE][0100AC30133EC800][v524288].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010025901432A000/base#PICROSS S6 [BASE][010025901432A000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010025901432A000/update#PICROSS S6 [UPDATE][010025901432A800][v393216].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01009B2016104000/base#PICROSS S7 [BASE][01009B2016104000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01009B2016104000/update#PICROSS S7 [UPDATE][01009B2016104800][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01002CE017D26000/base#PICROSS S8 [BASE][01002CE017D26000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010021A0197BA000/base#PICROSS S9 [BASE][010021A0197BA000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010021A0197BA000/update#PICROSS S9 [UPDATE][010021A0197BA800][v65536].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/base#PICROSS X : PICBITS VS UZBOROSS [BASE][0100F08018840000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/update#PICROSS X : PICBITS VS UZBOROSS [UPDATE][0100F08018840800][v131072].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:cca4f51dd4206b9b104470cfec5b391e5644f427bf2b00d2a68db793652dbd6b#PICROSS X PICBITS VS UZBOROSS [DLC Board Skin Working Zombies] [0100F08018841001][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:76b7b533ae58bd0bcad2dae905d78989429978cd53cd91001464e56260cd2154#PICROSS X PICBITS VS UZBOROSS [DLC Picbit Skin Cat] [0100F08018841005][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:f031a697146b2dcd33e58de42d182734558d1721d9a78ab6ab81034817fc50bd#PICROSS X PICBITS VS UZBOROSS [DLC Picbit Skin Panda] [0100F08018841006][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:dd34f92ba799dbefcab884c15c27bc5096a4b543c094decbd9ec9d25026dcec1#PICROSS X PICBITS VS UZBOROSS [DLC Picbit Skin Penguin] [0100F08018841007][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:4fdf7590032df5c61a134537997ab235ac4c0455c56eaf7fc5fa6757aa4e7287#PICROSS X PICBITS VS UZBOROSS [DLC Uzboross Skin Giraffe] [0100F08018841003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:ce5b073174f86edae25f3362504dd5976b0bb535044a6957907bd085708afc61#PICROSS X PICBITS VS UZBOROSS [DLC Uzboross Skin Working Zombies] [0100F08018841002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F08018840000/dlc-2123837035:f8bc37fcd365cf387072f10bd695d8da7bd335b22587837a5b58fbfb714f7406#PICROSS X PICBITS VS UZBOROSS [DLC Uzboross Skin Zebra] [0100F08018841004][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01003F201C5BA000/base#Piczle Cross: Story of Seasons [BASE][01003F201C5BA000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01003F201C5BA000/update#Piczle Cross: Story of Seasons [UPDATE][01003F201C5BA800][v131072].nsz",
             "size": 0
         },
         {
@@ -12286,6 +12982,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010046B00DE62000/dlc-1958876004:53f1d62da52fa0025e57bd3411a58415e0e97db942b16760bd3b0b12dd10cbac#Skullgirls 2nd Encore [DLC Umbrella][010046B00DE63003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010026300BA4A000/base#Slay the Spire [BASE][010026300BA4A000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010026300BA4A000/update#Slay the Spire [UPDATE][010026300BA4A800][v524288].nsz",
             "size": 0
         },
         {
@@ -15205,6 +15909,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/010036700F83E000/base#To the Moon [BASE][010036700F83E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010036700F83E000/update#To the Moon [UPDATE][010036700F83E800][v393216].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/01002CC01B6CE000/base#Toadomination [BASE][01002CC01B6CE000][v0].nsz",
             "size": 0
         },
@@ -15818,6 +16530,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01004D8007368000/update#Vostok Inc. [UPDATE][01004D8007368800][v196608].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100082010A4E000/base#Voxelgram [BASE][0100082010A4E000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100082010A4E000/update#Voxelgram [UPDATE][0100082010A4E800][v327680].nsz",
             "size": 0
         },
         {
@@ -16497,5 +17217,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Sun Apr 06 2025 13:24:50 GMT+0000 (Coordinated Universal Time). 4125 Files."
+    "success": "Generated on Mon Apr 07 2025 02:36:58 GMT+0000 (Coordinated Universal Time). 4305 Files."
 }
