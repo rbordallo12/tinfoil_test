@@ -1441,7 +1441,7 @@
             "size": 0
         },
         {
-            "url": "https://api.ultranx.ru/download/0100CD801CE5E000/update#Balatro [UPDATE][0100CD801CE5E800][v458752].nsz",
+            "url": "https://api.ultranx.ru/download/0100CD801CE5E000/update#Balatro [UPDATE][0100CD801CE5E800][v851968].nsz",
             "size": 0
         },
         {
@@ -2741,7 +2741,7 @@
             "size": 0
         },
         {
-            "url": "https://api.ultranx.ru/download/01002E7016C46000/update#Cult of the Lamb [UPDATE][01002E7016C46800][v1245184].nsz",
+            "url": "https://api.ultranx.ru/download/01002E7016C46000/update#Cult of the Lamb [UPDATE][01002E7016C46800][v1310720].nsz",
             "size": 0
         },
         {
@@ -2754,6 +2754,10 @@
         },
         {
             "url": "https://api.ultranx.ru/download/01002E7016C46000/dlc-1954538483:a73f4b1ccf8a5f94513d7f07eb0e6c8523f698c5b21e9e0f2d29c420166c6d6e#Cult of the Lamb [DLC Heretic Pack][01002E7016C47003][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/01002E7016C46000/dlc-1954538483:8cb86b72b4ad096a6e4cb3964c85ff318d0553f78f08f958cfaf3dbe108df92a#Cult of the Lamb [DLC Pilgrim Pack][01002E7016C47005][v0].nsz",
             "size": 0
         },
         {
@@ -7458,6 +7462,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/0100DD301A686000/update#LOLLIPOP CHAINSAW RePOP [UPDATE][0100DD301A686800][v458752].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100A0C00E0DE000/base#Lonely Mountains: Downhill [BASE][0100A0C00E0DE000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100A0C00E0DE000/update#Lonely Mountains: Downhill [UPDATE][0100A0C00E0DE800][v655360].nsz",
             "size": 0
         },
         {
@@ -17217,5 +17229,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Mon Apr 07 2025 02:36:58 GMT+0000 (Coordinated Universal Time). 4305 Files."
+    "success": "Generated on Mon Apr 07 2025 13:30:42 GMT+0000 (Coordinated Universal Time). 4308 Files."
 }
