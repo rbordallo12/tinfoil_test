@@ -11505,6 +11505,10 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100E3E01A9AC000/base#Pocket Bravery [BASE][0100E3E01A9AC000][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010052900DC7E000/base#Pocket Clothier [BASE][010052900DC7E000][v0].nsz",
             "size": 0
         },
@@ -13618,6 +13622,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010095600F1A8000/base#STAB STAB STAB! [BASE][010095600F1A8000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010047E01EA24000/base#Star Overdrive [BASE][010047E01EA24000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010047E01EA24000/update#Star Overdrive [UPDATE][010047E01EA24800][v327680].nsz",
             "size": 0
         },
         {
@@ -17229,5 +17241,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Thu Apr 10 2025 13:30:46 GMT+0000 (Coordinated Universal Time). 4308 Files."
+    "success": "Generated on Fri Apr 11 2025 02:27:12 GMT+0000 (Coordinated Universal Time). 4311 Files."
 }
