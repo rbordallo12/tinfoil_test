@@ -6261,6 +6261,42 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/base#JUMP FORCE - Deluxe Edition [BASE][0100183010F12000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/update#JUMP FORCE - Deluxe Edition [UPDATE][0100183010F12800][v458752].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:ed75f94e753ca33a31251597a88e80248a178972ccd1c1c89910b8b6027cadcc#JUMP FORCE Deluxe Edition [DLC Character Pack 10 Shoto Todoroki][010019D010F0F0D2][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:d77391577ec6e8927fac5450380e71ce0c55b12e835ab9bc061043c77d2a79ed#JUMP FORCE Deluxe Edition [DLC Character Pack 11 Meruem][010019D010F0F0D3][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:963ed28bfe89d80123b6ce1879facad6d5dd2b08b947ca5a4d7815e77475fc5f#JUMP FORCE Deluxe Edition [DLC Character Pack 12 Hiei][010019D010F0F0D4][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:d3bd1d290158f4d9bf5d66b83db5957348a602bb6efeaf65f61a73c321eb35a2#JUMP FORCE Deluxe Edition [DLC Character Pack 13 Yoruichi Shihoin][010019D010F0F0D5][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:eaf75fd3bd45a8c26135b348827f44d15543a43f460cb70724beb42af7aae3e1#JUMP FORCE Deluxe Edition [DLC Character Pack 14 Giorno Giovanna][010019D010F0F0D6][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:44bf82fc0eb43aa3d20b94085e0b79abac0234a3908118f1bd0ca3764f277022#JUMP FORCE Deluxe Edition [DLC Item Starter Pack][010019D010F0F06C][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100183010F12000/dlc-2123837035:36dad76ea18f9724bead7a31d10872afed1013034c4e2837c85ccb651f526573#JUMP FORCE Deluxe Edition [DLC Pod and Costumes][010019D010F0F065][v0].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010080E00D3DE000/base#Jungle Z [BASE][010080E00D3DE000][v0].nsz",
             "size": 0
         },
@@ -12241,6 +12277,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/010032E00E6E2000/base#Return of the Obra Dinn [BASE][010032E00E6E2000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010032E00E6E2000/update#Return of the Obra Dinn [UPDATE][010032E00E6E2800][v65536].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010021101831E000/base#Return to Monkey Island [BASE][010021101831E000][v0].nsz",
             "size": 0
         },
@@ -16425,6 +16469,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100701015846000/base#Unpacking [BASE][0100701015846000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100701015846000/update#Unpacking [UPDATE][0100701015846800][v327680].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/0100E5D00CC0C000/base#Unravel Two [BASE][0100E5D00CC0C000][v0].nsz",
             "size": 0
         },
@@ -17265,5 +17317,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Mon Apr 14 2025 13:31:20 GMT+0000 (Coordinated Universal Time). 4317 Files."
+    "success": "Generated on Tue Apr 15 2025 02:37:25 GMT+0000 (Coordinated Universal Time). 4330 Files."
 }
