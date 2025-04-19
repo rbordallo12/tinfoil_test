@@ -1609,6 +1609,14 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/010074500BBC4000/base#Bendy and the Ink Machine [BASE][010074500BBC4000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010074500BBC4000/update#Bendy and the Ink Machine [UPDATE][010074500BBC4800][v131072].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/01005C101CFFC000/base#Berzerk: Recharged [BASE][01005C101CFFC000][v0].nsz",
             "size": 0
         },
@@ -2126,6 +2134,14 @@
         },
         {
             "url": "https://api.ultranx.ru/download/010004701504A000/update#Calculator [UPDATE][010004701504A800][v196608].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010046000EE40000/base#Call of Cthulhu [BASE][010046000EE40000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/010046000EE40000/update#Call of Cthulhu [UPDATE][010046000EE40800][v196608].nsz",
             "size": 0
         },
         {
@@ -13629,6 +13645,54 @@
             "size": 0
         },
         {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/base#ru [BASE][0100F8F0000A2000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/update#ru [UPDATE][0100F8F0000A2800][v3276800].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/dlc-2123837035:a0801baad935d66dfb34b8f7eb6d688a8d1d1a6d240df9605b97a7aa41beab10#Splatoon 2 [DLC My Nintendo Store order bonus Splatoon 2 gear set 1][0100F8F0000A3001][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/dlc-2123837035:ecdf8fe8f841f2ca66e3e810cb8512e6e0d9cfbfdaa32ac4ef8df970326de381#Splatoon 2 [DLC My Nintendo Store order bonus Splatoon 2 gear set 2][0100F8F0000A3002][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/dlc-2123837035:a990b0a12c23dafded269f010c418975d97de49f77867d7e6a74b204dda17d7a#Splatoon 2 [DLC Nintendo Switch Online exclusive gear][0100F8F0000A3005][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/dlc-2123837035:3920de37a4931b3c450d0e42f9830dccc57fcbd2d6f49227b581f6626cb0b349#Splatoon 2 [DLC Octo Expansion][0100F8F0000A3065][v65536] (2.00 GB).nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100F8F0000A2000/dlc-2123837035:cfdb7adf60ceca2998485a8053f9d5ade0b1ffd19a6a68aaf27534effa260c19#Splatoon 2 [DLC Octo-themed in-game gear][0100F8F0000A3064][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C2500FC20000/base#Splatoon™ 3 + Nintendo Switch Online Individual Membership (3 Months) [BASE][0100C2500FC20000][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C2500FC20000/update#Splatoon™ 3 + Nintendo Switch Online Individual Membership (3 Months) [UPDATE][0100C2500FC20800][v2228224].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C2500FC20000/dlc-2123837035:493bf4b04dd40800f0e583774734b895cd4d32082dce2fa60f8dc63f38792348#Splatoon 3 [DLC Battle Boosting Bonuses][0100C2500FC21064][v0].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C2500FC20000/dlc-2123837035:b00c1123436146a026dc6a8a71201434b87f14e7c7b0325ae9691d3bf4b41fd8#Splatoon 3 [DLC Inkopolis][0100C2500FC21065][v393216].nsz",
+            "size": 0
+        },
+        {
+            "url": "https://api.ultranx.ru/download/0100C2500FC20000/dlc-2123837035:f49a5c10463042c751b333ba30a0207068eaa9e1874a3ff860fab96f458951e2#Splatoon 3 [DLC Side Order][0100C2500FC21066][v131072].nsz",
+            "size": 0
+        },
+        {
             "url": "https://api.ultranx.ru/download/010062800D39C000/base#SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated [BASE][010062800D39C000][v0].nsz",
             "size": 0
         },
@@ -17317,5 +17381,5 @@
             "size": 0
         }
     ],
-    "success": "Generated on Fri Apr 18 2025 13:27:20 GMT+0000 (Coordinated Universal Time). 4330 Files."
+    "success": "Generated on Sat Apr 19 2025 02:22:40 GMT+0000 (Coordinated Universal Time). 4346 Files."
 }
