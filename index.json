@@ -1,25 +1,4 @@
 {
-    "files": [
-        {
-            "url": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=dbi.ultranx.ru#cloudflare.com",
-            "size": 0
-        },
-        {
-            "url": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=dbi.ultranx.ru#",
-            "size": 0
-        },
-        {
-            "url": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&utm_campaign=dbi.ultranx.ru#Cloudflare",
-            "size": 0
-        },
-        {
-            "url": "https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-522/#Additional troubleshooting information here.",
-            "size": 0
-        },
-        {
-            "url": "https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_522&#38;utm_campaign=dbi.ultranx.ru#Cloudflare",
-            "size": 0
-        }
-    ],
-    "success": "Generated on Thu Jul 16 2026 04:10:18 GMT+0000 (Coordinated Universal Time). 6 Files."
+    "files": [],
+    "success": "Generated on Thu Jul 16 2026 15:04:00 GMT+0000 (Coordinated Universal Time). 1 Files."
 }
